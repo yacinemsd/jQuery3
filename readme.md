@@ -24,3 +24,8 @@ Construisez une page html avec 5 boutons et un rectangle. Chaque bouton provoque
 - Bouton 3 : remet les couleurs initiales
 - Bouton 4 : fait disparaître le rectangle
 - Bouton 5 : fait réaparaître le rectangle
+
+##Exercice 5
+Construisez une page html avec un carré et un champ de saisie de texte dans un formulaire.  
+Lorsque l'on appuie sur une touche de direction le carré se déplace de 10 px dans la bonne direction.  
+Quand le bloc atteint un bord de la page, il doit réaparaître de l'autre côté.
