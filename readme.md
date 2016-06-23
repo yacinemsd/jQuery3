@@ -16,3 +16,11 @@ Construisez une page html avec un bouton et un champ texte. Le but est de trouve
 - correcte
 
 Quand la réponse est trouvée, on obtiens le nombre d'essai que l'on a fait.
+
+##Exercice 4
+Construisez une page html avec 5 boutons et un rectangle. Chaque bouton provoque une action sur le rectangle.
+- Bouton 1 : augmente la hauteur de 10px, si il dépasse 100px, il remet la hauteur à 10px
+- Bouton 2 : met le rectangle en vert
+- Bouton 3 : remet les couleurs initiales
+- Bouton 4 : fait disparaître le rectangle
+- Bouton 5 : fait réaparaître le rectangle
