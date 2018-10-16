@@ -1,0 +1,13 @@
+body{
+  background-color: yellow;
+}
+#rectangle{
+
+
+  float: left;
+  width: 30%;
+  height: 40px;
+  background-color: blue;
+  margin-top: 50px;
+  margin-left: 50px;
+}
